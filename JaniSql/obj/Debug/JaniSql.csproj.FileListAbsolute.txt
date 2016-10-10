@@ -1,0 +1,8 @@
+C:\Users\ramazan\Documents\SharpDevelop Projects\JaniSql\JaniSql\bin\Debug\JaniSql.exe.config
+C:\Users\ramazan\Documents\SharpDevelop Projects\JaniSql\JaniSql\bin\Debug\JaniSql.exe
+C:\Users\ramazan\Documents\SharpDevelop Projects\JaniSql\JaniSql\bin\Debug\JaniSql.pdb
+C:\Users\ramazan\Documents\SharpDevelop Projects\JaniSql\JaniSql\obj\Debug\JaniSql.csprojResolveAssemblyReference.cache
+C:\Users\ramazan\Documents\SharpDevelop Projects\JaniSql\JaniSql\obj\Debug\JaniSql.MainForm.resources
+C:\Users\ramazan\Documents\SharpDevelop Projects\JaniSql\JaniSql\obj\Debug\JaniSql.csproj.GenerateResource.Cache
+C:\Users\ramazan\Documents\SharpDevelop Projects\JaniSql\JaniSql\obj\Debug\JaniSql.exe
+C:\Users\ramazan\Documents\SharpDevelop Projects\JaniSql\JaniSql\obj\Debug\JaniSql.pdb
